@@ -1,0 +1,154 @@
+#primer-boton{
+    height: 50px;
+    width: 170px;
+    border-radius: 150px;
+    background: #0fff9f;
+    border-color: #0fff9f;
+}
+#variocolor{
+    height: 50px;
+    width: 170px;
+    border-radius: 150px;
+    background: #253664;
+    color: #ffffff;
+}
+#color-blanco{
+    height: 50px;
+    width: 170px;
+    border-radius: 150px;
+}
+#tarjeta-de-color{
+   height: 450px;
+   background: #253664;
+   color: #ffffff;
+}
+#cartas-en-blanco{
+    height: 450px;
+}
+.introduccion{
+    padding-top: 241px;
+    padding-bottom: 90px;
+    background-image: url(../Imagenes/banner-bk.jpg);
+    color: #ffffff;
+}
+.introduccion h1{
+    color: #ffffff;
+    padding-bottom: 20px;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 60px;
+}
+.introduccion p{
+    color: #ffffff;
+    padding-bottom: 20px;
+}
+.nuestros-servicios{
+    padding-top: 100px;
+    padding-bottom: 115px;
+}
+.nuestros-servicios h2{
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 40px;
+}
+.informacion-extra{
+    padding-top: 100px;
+    padding-bottom: 115px;
+}
+.informacion-extra h1{
+    font-family: 'Merriweather Sans', sans-serif;
+    padding-bottom: 20px;
+}
+.informacion-extra p{
+    padding-bottom: 20px;
+}
+.informacion-extra img{
+    float: right;
+    height: 300px;
+    width: 500px;
+}
+.precios{
+    padding-top: 100px;
+    padding-bottom: 115px;
+}
+.precios h2{
+    font-family: 'Merriweather Sans', sans-serif;
+    padding-bottom: 35px;
+    font-size: 40px;
+}
+.logotipos{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: aquamarine;
+}
+.formulario{
+    padding-top: 90px;
+    padding-bottom: 150px;
+    background-image: url(../Imagenes/contact-bk.jpg);
+    color: #ffffff;
+}
+.formulario h1{
+    font-family: 'Merriweather Sans', sans-serif;
+    padding-bottom: 20px;
+}
+.redes-sociales{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: #253664;
+    color: #ffffff;
+}
+#boton-medio{
+    height: 50px;
+    width: 170px;
+    border-radius: 150px;
+    background: #0fff9f;
+    border-color: #0fff9f;
+}
+#test-imagenes{
+    height: 180px;
+    width: 180px;
+}
+#separador-de-texto{
+    padding-bottom: 25px;
+}
+#precio{
+    height: 100px;
+    width: 150px;
+}
+#boton-form{
+    height: 50px;
+    width: 550px;
+    border-radius: 150px;
+    background: #0fff9f;
+    border-color: #0fff9f;
+}
+#formulario-carta{
+    height: 300px;
+    width: 700px;
+}
+#color-texto-formulario{
+    color: #0fff9f;
+}
+#inputEmail4{
+    color: #ffffff;
+    border-color: #0fff9f;
+}
+#inputName4{
+    color: #ffffff;
+    border-color: #0fff9f;
+}
+#inputMessage{
+    width: 550px;
+    height: 100px;
+    border-color: #0fff9f;
+    color: #ffffff;
+}
+.datos-ex{
+    padding-top: 20px;
+}
+.datos-ex h1{
+    font-family: 'Merriweather Sans', sans-serif;
+}
+.datos-ex img{
+    float: left;
+    height: 300px;
+    width: 500px;
+}
